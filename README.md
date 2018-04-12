@@ -1,6 +1,7 @@
 # CSE141L: Project in Computer Architecture
 
 Project Overview: 
+
 	Lab 1: Design an instruction set and instruction forms for my own 9-bit processor. Coded two assembly programs, string match and long division, to run on my processor. For a full lab description see Lab1.pdf
 
 	Lab 2: Design the register file, ALU, fetch unit (program counter and instruction memory), and data memory for my CPU. For a full lab description see Lab 2.docx
