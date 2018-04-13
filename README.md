@@ -1,4 +1,4 @@
-# CSE141L: Project in Computer Architecture
+# CSE 141L: Project in Computer Architecture
 
 Project Overview: 
 
